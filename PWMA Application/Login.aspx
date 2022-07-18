@@ -49,7 +49,7 @@
          }
         }
         .auto-style4 {
-            accent-color:rgb(236,153,75);
+            accent-color:rgb(236, 153, 75);
         }
         .auto-style5 {
             width: 529px;
