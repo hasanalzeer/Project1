@@ -11,6 +11,7 @@ using System.Data;
 
 namespace PWMA_Application
 {
+    //majd commit first time
     public partial class Login : System.Web.UI.Page
     {
         public string constr = "Data Source=SQL8002.site4now.net;Initial Catalog=db_a89c1f_pharmacian;User Id=db_a89c1f_pharmacian_admin;Password=1234567890aA";
